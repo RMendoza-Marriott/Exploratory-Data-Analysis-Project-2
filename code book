@@ -1,0 +1,11 @@
+fipsstart color red, start verbatim, fips, end verbatim, end color red: A five-digit number (represented as a string) indicating the U.S. county
+
+SCCSCCstart color red, start verbatim, SCC, end verbatim, end color red: The name of the source as indicated by a digit string (see source code classification table)
+
+PollutantPollutantstart color red, start verbatim, Pollutant, end verbatim, end color red: A string indicating the pollutant
+
+EmissionsEmissionsstart color red, start verbatim, Emissions, end verbatim, end color red: Amount of PM2.5 emitted, in tons
+
+typetypestart color red, start verbatim, type, end verbatim, end color red: The type of source (point, non-point, on-road, or non-road)
+
+yearyearstart color red, start verbatim, year, end verbatim, end color red: The year of emissions recorded
